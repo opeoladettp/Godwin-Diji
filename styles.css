@@ -759,28 +759,31 @@ p {
     }
     
     .nav-btn {
-        width: 45px;
-        height: 45px;
-        font-size: 1.8rem;
+        width: 40px;
+        height: 40px;
+        font-size: 1.5rem;
+        border-width: 1px;
     }
     
     .prev {
-        left: 10px;
+        left: 5px;
     }
     
     .next {
-        right: 10px;
+        right: 5px;
     }
     
     .theme-toggle {
-        top: 10px;
-        right: 10px;
-        padding: 8px 12px;
+        top: 5px;
+        right: 5px;
+        padding: 6px 10px;
+        border-width: 1px;
+        gap: 5px;
     }
     
     .theme-toggle .sun-icon,
     .theme-toggle .moon-icon {
-        font-size: 18px;
+        font-size: 16px;
     }
     
     .slide-nav {
